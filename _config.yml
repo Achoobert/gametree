@@ -32,10 +32,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Stuart Shannon
+  location: Chiang Mai, Thailand
+  social:  Social Media
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -49,9 +48,6 @@ address:
   - line: 200/14, B-Avenue 
   - line: M.1, Suthep Rd.
   - line: Chiang Mai 50200
-
-# Credits content
-credits: 'Static site managed by <a href="https://github.com/achoobert/">Achoobert</a>.'
 
 # Build settings
 markdown: kramdown
